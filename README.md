@@ -4,6 +4,7 @@ A mini banking system built with **MySQL 8.0**, covering relational schema desig
 
 # Files Included
 - `ABCBank_MySQL_Project_v4.pptx`: Presentation file with ER diagram, SQL schema, queries, and analysis.
+- ABCBank_Project.sql - SQL prroject file
 
 # Project Objective
 To design and implement a banking database for managing:
